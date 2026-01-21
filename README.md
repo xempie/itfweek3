@@ -13,7 +13,6 @@ Explain here what the project is .....
 
 ## Contributers
 - Ashkan 
-- James
 
 ---
 
