@@ -10,3 +10,12 @@ Explain here what the project is .....
 - Contact us
 
 ---
+
+## Contributers
+- Ashkan 
+- James
+
+---
+
+## Setup Instruction 
+explain something here.
